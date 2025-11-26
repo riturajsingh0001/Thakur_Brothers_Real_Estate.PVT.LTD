@@ -35,12 +35,6 @@ A premium, modern real estate website designed as a Single Page Application (SPA
 * Tailwind CSS (via CDN): Rapid styling and responsive utility classes.
 * Vanilla JavaScript (ES6+): Logic for navigation, DOM manipulation, calculator math, and form handling.
 
-## 📂 Project Structure
-
-```text
-├── index.html      # Main HTML structure and Tailwind config
-├── style.css       # Custom overrides (scrollbars, animations)
-└── script.js       # Listing data, Calculator logic, and Navigation
 
 🚀 How to Run Locally
 Since this project uses static files and the Tailwind CDN, no installation or build process is required.
@@ -56,3 +50,11 @@ Simply double-click index.html to open it in your browser.
 OR use a Live Server extension in VS Code for the best experience.
 
 Designed and Developed by Rituraj Singh
+
+## 📂 Project Structure
+
+```text
+├── index.html      # Main HTML structure and Tailwind config
+├── style.css       # Custom overrides (scrollbars, animations)
+└── script.js       # Listing data, Calculator logic, and Navigation
+
