@@ -40,7 +40,7 @@ A premium, modern real estate website designed as a Single Page Application (SPA
 Since this project uses static files and the Tailwind CDN, no installation or build process is required.
 
 1.Clone the repository:
-git clone [https://github.com/your-username/thakur-brothers-real-estate.git](https://github.com/your-username/thakur-brothers-real-estate.git)
+git clone https://github.com/riturajsingh0001/Thakur_Brothers_Real_Estate.PVT.LTD.git
 
 2.Navigate to the folder:
 cd thakur-brothers-real-estate
